@@ -1,0 +1,34 @@
+.fa-chevron-left{
+    font-size:40px;
+    background-color:rgba(0,0,0,.2);
+    border-radius:50%;
+    padding:10px;
+    margin-right:20px;
+  
+}
+
+html{
+    position:relative;
+}
+a{
+    color:inherit;
+}
+
+h1{
+    font-family: 'League Gothic', sans-serif;
+}
+p{
+    font-family:'Roboto Slab', serif;
+}
+
+
+
+@media screen and (max-width:657px){
+    .fa-chevron-left{
+    
+        top:250px;
+     
+    }
+ 
+}
+
